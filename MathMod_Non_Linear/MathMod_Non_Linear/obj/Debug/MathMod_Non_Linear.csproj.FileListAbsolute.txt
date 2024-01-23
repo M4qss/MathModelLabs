@@ -1,0 +1,7 @@
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\bin\Debug\MathMod_Non_Linear.exe.config
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\bin\Debug\MathMod_Non_Linear.exe
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\bin\Debug\MathMod_Non_Linear.pdb
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\obj\Debug\MathMod_Non_Linear.csprojAssemblyReference.cache
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\obj\Debug\MathMod_Non_Linear.csproj.CoreCompileInputs.cache
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\obj\Debug\MathMod_Non_Linear.exe
+C:\Users\dns\source\repos\MathMod_Non_Linear\MathMod_Non_Linear\obj\Debug\MathMod_Non_Linear.pdb
